@@ -1,9 +1,3 @@
-Okay, this is a classic and excellent project for learning CNNs! The Dogs vs Cats dataset is a fantastic benchmark.
-
-Based on your problem statement and expected outcome, here's a high-level, step-by-step flow to tackle this binary image classification project. We'll break down each major phase into its core components.
-
----
-
 ### High-Level Flow for the Dogs vs Cats Classification Project
 
 The project can be logically divided into six main phases:
