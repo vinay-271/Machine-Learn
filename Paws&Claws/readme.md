@@ -117,7 +117,3 @@ Let's look at each phase in more detail.
     5.  **Display Result:** Show the image along with its predicted label and confidence score.
 
 ---
-
-**Next Step:** I recommend we start with **Phase 1: Project Setup & Data Acquisition**. This will lay the groundwork before we dive into the data and model code.
-
-Let me know when you're ready to proceed!
